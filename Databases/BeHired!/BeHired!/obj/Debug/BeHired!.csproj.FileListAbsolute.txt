@@ -1,0 +1,12 @@
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\bin\Debug\BeHired!.exe.config
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\bin\Debug\BeHired!.exe
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\bin\Debug\BeHired!.pdb
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired!.csprojAssemblyReference.cache
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired_.frmLogin.resources
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired_.frmMain.resources
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired_.Properties.Resources.resources
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired!.csproj.GenerateResource.cache
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired!.exe
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired!.pdb
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired_.frmRegister.resources
+C:\Users\tudor\Desktop\Kill me!\BeHired!\BeHired!\obj\Debug\BeHired_.frmRegisterCompanie.resources
